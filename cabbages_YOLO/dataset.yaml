@@ -1,0 +1,4 @@
+names:
+  0: cabbage
+path: /home/jupyter-b640610650/deep_learning/cabbages_YOLO
+val: ./images/val/
